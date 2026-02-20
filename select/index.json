@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Feel This Moment (Official Video)",
+  "base_artist": "Pitbull",
+  "createdAt": "2026-02-20T13:09:31.276093Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feel This Moment (DJ Riddler Extended Mix)",
+      "artist": "Pitbull feat. Christina Aguilera",
+      "has_synced": false,
+      "path": "select/01_Feel_This_Moment_(DJ_Riddler_Extended_Mix)_Pitbull_feat._Christina_Aguilera.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Feel This Moment (Dj Riddler Extended Mix)",
+      "artist": "Christina Aguilera",
+      "has_synced": false,
+      "path": "select/02_Feel_This_Moment_(Dj_Riddler_Extended_Mix)_Christina_Aguilera.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feel This Moment (DJ Riddler Radio Mix)",
+      "artist": "Pitbull feat. Christina Aguilera",
+      "has_synced": true,
+      "path": "select/03_Feel_This_Moment_(DJ_Riddler_Radio_Mix)_Pitbull_feat._Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Feel This Moment (Dj Riddler Radio Mix)",
+      "artist": "Christina Aguilera",
+      "has_synced": true,
+      "path": "select/04_Feel_This_Moment_(Dj_Riddler_Radio_Mix)_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Feel This Moment (Jump Smokers Extended Mix)",
+      "artist": "Pitbull feat. Christina Aguilera",
+      "has_synced": false,
+      "path": "select/05_Feel_This_Moment_(Jump_Smokers_Extended_Mix)_Pitbull_feat._Christina_Aguilera.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Feel This Moment (Jump Smokers Extended Mix)",
+      "artist": "Christina Aguilera",
+      "has_synced": false,
+      "path": "select/06_Feel_This_Moment_(Jump_Smokers_Extended_Mix)_Christina_Aguilera.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feel This Moment (Kassiano Club Mix)",
+      "artist": "Christina Aguilera",
+      "has_synced": true,
+      "path": "select/07_Feel_This_Moment_(Kassiano_Club_Mix)_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Feel This Moment (Kassiano Radio Mix)",
+      "artist": "Christina Aguilera",
+      "has_synced": false,
+      "path": "select/08_Feel_This_Moment_(Kassiano_Radio_Mix)_Christina_Aguilera.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Feel This Moment (Kassiano Club Mix)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/09_Feel_This_Moment_(Kassiano_Club_Mix)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Feel This Moment",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/10_Feel_This_Moment_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Feel This Moment",
+      "artist": "Pitbull feat. Christina Aguilera",
+      "has_synced": true,
+      "path": "select/11_Feel_This_Moment_Pitbull_feat._Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Feel This Moment",
+      "artist": "Pitbull/Christina Aguilera",
+      "has_synced": true,
+      "path": "select/12_Feel_This_Moment_Pitbull_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Feel This Moment (feat. Christina Aguilera)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/13_Feel_This_Moment_(feat._Christina_Aguilera)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Feel This Moment",
+      "artist": "Pitbull (ft. Christina Aguilera)",
+      "has_synced": true,
+      "path": "select/14_Feel_This_Moment_Pitbull_(ft._Christina_Aguilera).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Feel This Moment",
+      "artist": "Pitbull, Christina Aguilera",
+      "has_synced": true,
+      "path": "select/15_Feel_This_Moment_Pitbull,_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Feel This Moment - Kassiano Club Mix",
+      "artist": "Pitbull feat. Christina Aguilera",
+      "has_synced": true,
+      "path": "select/16_Feel_This_Moment_-_Kassiano_Club_Mix_Pitbull_feat._Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Feel This Moment - Kassiano Radio Mix",
+      "artist": "Pitbull feat. Christina Aguilera",
+      "has_synced": false,
+      "path": "select/17_Feel_This_Moment_-_Kassiano_Radio_Mix_Pitbull_feat._Christina_Aguilera.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feel This Moment",
+      "artist": "Pitbull",
+      "has_synced": false,
+      "path": "select/pl_01_Feel_This_Moment_Pitbull.txt"
+    }
+  ]
+}
